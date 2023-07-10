@@ -1,7 +1,7 @@
 
 ## Firebase-Messaging-Integration-Platform Mobile
-[Firebase Messaging](https://firebase.flutter.dev/docs/messaging/overview/)
-[Legacy FCM](https://firebase.google.com/docs/cloud-messaging/http-server-ref)
+[Firebase Messaging](https://firebase.flutter.dev/docs/messaging/overview/) \
+[Legacy FCM](https://firebase.google.com/docs/cloud-messaging/http-server-ref) \
 [Http v1 FCM](https://firebase.google.com/docs/cloud-messaging/migrate-v1)
 ### Note:
 ### Usecase 1: You want update badge count on app
