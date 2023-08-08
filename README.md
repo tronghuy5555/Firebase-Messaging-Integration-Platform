@@ -5,7 +5,7 @@
 [Migrate Legacy to Http v1 FCM](https://firebase.google.com/docs/cloud-messaging/migrate-v1) \
 [Http v1 FCM](https://firebase.google.com/docs/reference/fcm/rest/v1/projects.messages)
 ### Note:
-### Usecase 1: You want update badge count on app
+### Usecase 1: You want to update badge count on app
 iOS: Sever update badge in notification object, it will affect immediately
 ```json
 {
